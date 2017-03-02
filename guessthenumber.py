@@ -2,7 +2,7 @@ import simplegui
 import random
 import math
 guess= 15 
-secret_number= 95
+secret_number= 94
 n= 7
 def input_guess(inp):
     global n 
